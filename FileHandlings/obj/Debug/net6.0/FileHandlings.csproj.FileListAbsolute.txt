@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\bin\Debug\net6.0\FileHandlings.exe
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\bin\Debug\net6.0\FileHandlings.deps.json
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\bin\Debug\net6.0\FileHandlings.runtimeconfig.json
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\bin\Debug\net6.0\FileHandlings.dll
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\bin\Debug\net6.0\ref\FileHandlings.dll
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\bin\Debug\net6.0\FileHandlings.pdb
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.dll
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\ref\FileHandlings.dll
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.pdb
+C:\Users\Pavani\source\repos\FileHandlings\FileHandlings\obj\Debug\net6.0\FileHandlings.genruntimeconfig.cache
